@@ -12,6 +12,11 @@ Assets are in the assets folder.
 
 ![Measurements Two](doc/measurements2.png)
 
+#### Topic Tag (Chip)
+
+![Topic](doc/topic-measurements.png)
+![Topic](doc/topic-tag-properties.png)
+
 ## Behaviors 
 
 ### Lift Icon ![Lift Icon](assets/LiftIcon.svg) 
