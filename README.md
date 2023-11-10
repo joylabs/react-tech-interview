@@ -1,6 +1,6 @@
 # Memo Communications React Technical Interview
 
-To understand how you code, and how you interpret a technical design, we want to see how you code the follow element from Memo. 
+To understand how you code, and how you interpret a technical design, we want to see how you code the following element from Memo. 
 
 ## Goal
 ![Card](doc/Card.svg)
